@@ -49,7 +49,7 @@ You may also edit the code in `BadApple.cpp` to adapt to new videos.
 ### **Run the Program**
 
 ```bash
-python SCourseHelper.py
+python convert.py
 ```
 
 After converting, you may see the text file containing the video in ASCII art form.
